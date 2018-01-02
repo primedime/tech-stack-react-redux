@@ -2,7 +2,7 @@ import React from 'react';
 import { Text, View } from 'react-native';
 import { Provider } from 'react-redux';
 import { createStore } from 'redux';
-import reducers from './src/reducers';
+import reducers from './src/components/reducers';
 import { Header } from './src/components/common';
 import LibraryList from './src/components/LibraryList';
 
