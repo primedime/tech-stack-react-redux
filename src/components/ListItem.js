@@ -13,7 +13,6 @@ class ListItem extends Component {
                 </Text>
             </CardSection>
         );
-
     }
 }
 
